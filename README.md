@@ -2,8 +2,7 @@
 _A python script for the analysis of three diferent sources to populate a Postgres database with info about bibliotecas, museos y salas de cines argentinos_
 
 ### Requirements
-_For this project you will need 'Python>10'_
-_The following libraries_
+_For this project you will need 'Python>10' and the following libraries_
 ```
 pip install pandas
 pip install SQLAlchemy
